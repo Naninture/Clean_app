@@ -1,6 +1,6 @@
 # clean_water_detector
 
-A new Flutter project.
+This is an app That is made in Flutter. It can be used to check the quality of water by just passing the picters of the water in a transparent container.
 
 ## Getting Started
 
